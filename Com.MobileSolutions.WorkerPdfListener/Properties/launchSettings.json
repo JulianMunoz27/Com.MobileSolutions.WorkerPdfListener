@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Com.MobileSolutions.WorkerPdfListener": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
